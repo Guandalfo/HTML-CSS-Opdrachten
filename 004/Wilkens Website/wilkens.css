@@ -1,0 +1,49 @@
+header img{
+    padding:10px;
+}
+body{
+    margin:auto;
+}
+nav{
+    background-color:black;
+    padding:15px;
+}
+nav a{
+    color:white;
+    text-decoration-line:none;
+    padding-right: 15px;
+    padding-left:15px;
+    font-family:sans-serif;
+    font-size:20px;
+    border-right: white solid;
+}
+main img{
+    width:100%;
+}
+main article{
+    float:left;
+    width:700px;
+}
+article p{
+    text-align:left;
+    padding:10px;
+}
+table{
+    float:right;
+    border-collapse:collapse;
+    width:700px;
+    display:table;
+    margin:30px;
+}
+table,td{
+    border:1px black solid;
+    height:70px;
+    text-align:center;
+    font-size:20px;
+}
+td.groen{
+    background-color:mediumseagreen;
+}
+td.blauw{
+    background-color:cadetblue;
+}

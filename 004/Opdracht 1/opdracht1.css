@@ -1,0 +1,17 @@
+body{
+    background-color:yellow;
+    padding:20px;
+}
+header{
+    background-color:red;
+    margin-bottom:30px;
+}
+section{
+    background-color:green;
+    border:1px black solid;
+}
+footer{
+    background-color:black;
+    color:white;
+    padding:20px;
+}
