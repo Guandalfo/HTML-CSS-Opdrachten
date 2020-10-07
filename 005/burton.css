@@ -1,0 +1,26 @@
+*{
+    box-sizing:border-box;
+}
+div#wrapper{
+    background-color:#FFE5E8;
+    margin:auto;
+    width:1000px;
+    padding:20px;
+}
+header img{
+    padding-bottom:15px;
+}
+nav a{
+    display:inline;
+    padding:7px;
+}
+section.eerste ,section.tweede{
+    width:50%;
+    float:left;
+    padding-top:20px;
+}
+section.eerste{
+}
+section.tweede{
+    text-align:right;
+}
